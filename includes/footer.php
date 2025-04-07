@@ -45,7 +45,7 @@ foreach($results as $result)
             </div>
             <div class="container copyright">
             <p> &copy; <?php echo date('Y'); ?> Jet Washing Bay Management System</p> <p> Developed and Maintained  by Maxim</p>
-            <p>Engineeredby Infinitech</p>
+        
 
             </div>
         </div>
